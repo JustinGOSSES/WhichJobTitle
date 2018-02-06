@@ -4,6 +4,7 @@ A brief notebook to answer the question:
 <i>A quick data exploration of:</i> <b>Data Scientist vs. Software Engineer?</b>
 
 ## <a href="http://nbviewer.jupyter.org/github/JustinGOSSES/WhichJobTitle/blob/master/Which_Job_Title_Are_You-PartI.ipynb">Part 1</a>: Data Harvert, Data cleaning, and Visualization
+## <a href="https://github.com/JustinGOSSES/WhichJobTitle/blob/master/Which_Job_Title_Are_You-PartII.ipynb">Part 2</a>: Vectorization, Machine-learning, and Prediction
 
 2018-01 Justin Gosses
 
