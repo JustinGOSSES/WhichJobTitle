@@ -1,8 +1,7 @@
 # WhichJobTitle
-
-### A brief notebook to answer the question:
+A brief notebook to answer the question:
 ## "Which job title am I actually doing in my current position"
-### A quick data exploration of: Data Scientist vs. Software Engineer
+<i>A quick data exploration of:</i> <b>Data Scientist vs. Software Engineer?</b>
 
 ## <a href="http://nbviewer.jupyter.org/github/JustinGOSSES/WhichJobTitle/blob/master/Which_Job_Title_Are_You-PartI.ipynb">Part 1</a>: Data Harvert, Data cleaning, and Visualization
 
