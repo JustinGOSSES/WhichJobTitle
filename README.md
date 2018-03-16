@@ -21,7 +21,7 @@ Normally when trying to do text classification, you might follow an approach lik
 - Visualization of skill counts.
 - Turn said counts into vectors of features.
 - Use job title categories as lables.
-- Do quick random forest and Support Vector Machine models to see if the distribution of skill words is predictive of job titles.
+- Do quick ExtraTrees classification model to see if the distribution of skill words is predictive of job titles.
 - Put my resume run in the model and see whether it predicts I'm a data scientist or a software engineer.
 
 ### Optional part B (haven't done this yet):
